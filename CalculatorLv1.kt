@@ -48,6 +48,3 @@ class CalculatorLv1 {
         }
     }
 }
-
-
-// 테스트 코드 수정
